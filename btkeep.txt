@@ -1,6 +1,6 @@
 {
     "id":242,
-    "versionName":"202207051200",
+    "versionName":"202207031200",
     "routeUrl":"api地址",
     "appName":"BT-Keep",
     "createTime":"2022-06-30 17:16:05",
