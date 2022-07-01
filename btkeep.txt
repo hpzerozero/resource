@@ -1,0 +1,10 @@
+{
+    "id":242,
+    "versionName":"1",
+    "routeUrl":"api地址",
+    "appName":"BT-Keep",
+    "createTime":"2022-06-30 17:16:05",
+    "updateTime":"2022-06-30 17:16:05",
+    "userId":1,
+    "isState":2
+}
